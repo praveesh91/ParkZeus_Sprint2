@@ -20,7 +20,7 @@ class Dashboard extends Component {
         
         <Grid container className='padding-btm'>
           <Typography className="userName" variant="h5" gutterBottom>
-            Welcome! Jean Donas
+            Welcome! User
           </Typography>
           <StyledBackground/>
         </Grid>
