@@ -1,0 +1,59 @@
+.ParkingFacilitiesServices{
+
+    margin: 20px 0;
+
+    &__wrapper{
+        display: flex;
+        justify-content: space-between;
+
+       
+
+        &_left{
+            width: 47%;
+            margin: 0 auto;
+            border-radius: 10px!important;
+
+            &_heading{
+                padding:20px
+            }
+
+            &_side{
+                display: flex;
+                justify-content: space-between;
+                padding: 20px;
+
+                img{
+                    width:20px;
+                    margin-right: 20px;
+                }
+            }
+        }
+        &_right{
+            width: 47%;
+            margin: 0 auto;
+            border-radius: 10px!important;
+           
+
+            
+
+                
+
+            &_side ul {
+                margin:50px 0;
+               display: inline-block;
+            }
+            &_side li{
+                display: block;
+                text-align: center;
+                font-size: 10px;
+            }
+
+            img{
+                width: 55px;
+                margin-bottom: 20px;
+            }
+        
+
+        }
+    }
+}

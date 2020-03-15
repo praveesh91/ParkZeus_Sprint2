@@ -1,0 +1,18 @@
+<svg id="card_view_deactive" data-name="card view deactive" xmlns="http://www.w3.org/2000/svg" width="27" height="24" viewBox="0 0 27 24">
+  <g id="Rectangle_1211" data-name="Rectangle 1211" fill="none" stroke="#8481ad" stroke-width="1.2">
+    <rect width="13" height="11" stroke="none"/>
+    <rect x="0.6" y="0.6" width="11.8" height="9.8" fill="none"/>
+  </g>
+  <g id="Rectangle_1215" data-name="Rectangle 1215" transform="translate(15)" fill="none" stroke="#8481ad" stroke-width="1.2">
+    <rect width="12" height="11" stroke="none"/>
+    <rect x="0.6" y="0.6" width="10.8" height="9.8" fill="none"/>
+  </g>
+  <g id="Rectangle_1218" data-name="Rectangle 1218" transform="translate(0 13)" fill="none" stroke="#8481ad" stroke-width="1.2">
+    <rect width="13" height="11" stroke="none"/>
+    <rect x="0.6" y="0.6" width="11.8" height="9.8" fill="none"/>
+  </g>
+  <g id="Rectangle_1219" data-name="Rectangle 1219" transform="translate(15 13)" fill="none" stroke="#8481ad" stroke-width="1.2">
+    <rect width="12" height="11" stroke="none"/>
+    <rect x="0.6" y="0.6" width="10.8" height="9.8" fill="none"/>
+  </g>
+</svg>

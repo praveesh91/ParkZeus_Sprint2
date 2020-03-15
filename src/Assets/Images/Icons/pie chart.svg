@@ -1,0 +1,23 @@
+<svg id="pie_chart" data-name="pie chart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="40" viewBox="0 0 42 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.921" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d3d3d3"/>
+      <stop offset="1" stop-color="#383838" stop-opacity="0.031"/>
+    </linearGradient>
+  </defs>
+  <g id="pie_chart-2" data-name="pie chart">
+    <g id="daily_unselected" transform="translate(-581 -574)">
+      <g id="Rectangle_1179" data-name="Rectangle 1179" transform="translate(581 574)" fill="#e6e6ef" stroke="#959595" stroke-width="1" opacity="0.44">
+        <rect width="42" height="40" stroke="none"/>
+        <rect x="0.5" y="0.5" width="41" height="39" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_1972" data-name="Group 1972" transform="translate(6 4.001)">
+    <g id="Group_1971" data-name="Group 1971" transform="translate(-69 -13.101)">
+      <path id="Path_1261" data-name="Path 1261" d="M95.971,37.368H76.333V18.1H75.6v1.483h-.742v.742H75.6V21.8h-.742v.742H75.6v1.483h-.742v.742H75.6v1.483h-.742v.737H75.6v1.483h-.742v.742H75.6V30.7h-.742v.742H75.6v1.479h-.742v.742H75.6v1.483h-.742v.742H75.6v1.483H73V38.1h2.6v2.6h.737V38.1h1.483v.742h.742V38.1h1.483v.742h.742V38.1h1.479v.742H83V38.1h1.483v.742h.742V38.1H86.71v.742h.737V38.1H88.93v.742h.742V38.1h1.483v.742H91.9V38.1h1.479v.742h.742V38.1h1.854Z" transform="translate(0 0)" fill="#707070"/>
+    </g>
+    <path id="Path_1274" data-name="Path 1274" d="M0,8.779,3.895,3.307,6.063.933H7.714l2.736,2.89,2.167,3.82H14.27L17,3.823V14H0Z" transform="translate(7 10.999)" fill="url(#linear-gradient)"/>
+    <path id="Path_1273" data-name="Path 1273" d="M-.19,5.277,3.232.178,5.715-2.775H7.191L9.674.178l2.482,4.16h1.678L16.518.178" transform="translate(7.5 14.499)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

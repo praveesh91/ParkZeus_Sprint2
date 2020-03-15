@@ -1,0 +1,17 @@
+<svg id="bar_graph" data-name="bar graph" xmlns="http://www.w3.org/2000/svg" width="42" height="40" viewBox="0 0 42 40">
+  <g id="bar_graph-2" data-name="bar graph">
+    <g id="daily_unselected" transform="translate(-581 -574)">
+      <g id="Rectangle_1179" data-name="Rectangle 1179" transform="translate(581 574)" fill="#e6e6ef" stroke="#959595" stroke-width="1" opacity="0.44">
+        <rect width="42" height="40" stroke="none"/>
+        <rect x="0.5" y="0.5" width="41" height="39" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_1918" data-name="Group 1918" transform="translate(5 4.001)">
+    <path id="Path_1267" data-name="Path 1267" d="M6.027,26.572V25.031H7.054V24H6.027V19.381H7.054V18.354H6.027V13.731H7.054V12.7H6.027V8.081H7.054V7.054H6.027V5H5V27.6H27.6V26.572Z" fill="#707070"/>
+    <rect id="Rectangle_1900" data-name="Rectangle 1900" width="1.027" height="18.491" transform="translate(10.65 7.054)" fill="#707070"/>
+    <rect id="Rectangle_1901" data-name="Rectangle 1901" width="1.027" height="14.382" transform="translate(14.759 11.163)" fill="#707070"/>
+    <rect id="Rectangle_1902" data-name="Rectangle 1902" width="1.027" height="9.245" transform="translate(18.868 16.299)" fill="#707070"/>
+    <rect id="Rectangle_1903" data-name="Rectangle 1903" width="1.028" height="4.623" transform="translate(22.977 20.922)" fill="#707070"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg id="list_view_deactive" data-name="list view deactive" xmlns="http://www.w3.org/2000/svg" width="30.464" height="24" viewBox="0 0 30.464 24">
+  <g id="Group_987" data-name="Group 987" transform="translate(0 0)">
+    <g id="Rectangle_1256" data-name="Rectangle 1256" transform="translate(0 0)" fill="none" stroke="#8481ad" stroke-width="1.2">
+      <rect width="4" height="4" rx="2" stroke="none"/>
+      <rect x="0.6" y="0.6" width="2.8" height="2.8" rx="1.4" fill="none"/>
+    </g>
+    <g id="Rectangle_1255" data-name="Rectangle 1255" transform="translate(5.731)" fill="none" stroke="#8481ad" stroke-width="1.2">
+      <rect width="24.733" height="3.983" rx="1.991" stroke="none"/>
+      <rect x="0.6" y="0.6" width="23.533" height="2.783" rx="1.391" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_987-2" data-name="Group 987" transform="translate(0 10)">
+    <g id="Rectangle_1256-2" data-name="Rectangle 1256" transform="translate(0 0)" fill="none" stroke="#8481ad" stroke-width="1.2">
+      <rect width="4" height="4" rx="2" stroke="none"/>
+      <rect x="0.6" y="0.6" width="2.8" height="2.8" rx="1.4" fill="none"/>
+    </g>
+    <g id="Rectangle_1255-2" data-name="Rectangle 1255" transform="translate(5.731)" fill="none" stroke="#8481ad" stroke-width="1.2">
+      <rect width="24.733" height="3.983" rx="1.991" stroke="none"/>
+      <rect x="0.6" y="0.6" width="23.533" height="2.783" rx="1.391" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_987-3" data-name="Group 987" transform="translate(0 20)">
+    <g id="Rectangle_1256-3" data-name="Rectangle 1256" transform="translate(0 0)" fill="none" stroke="#8481ad" stroke-width="1.2">
+      <rect width="4" height="4" rx="2" stroke="none"/>
+      <rect x="0.6" y="0.6" width="2.8" height="2.8" rx="1.4" fill="none"/>
+    </g>
+    <g id="Rectangle_1255-3" data-name="Rectangle 1255" transform="translate(5.731)" fill="none" stroke="#8481ad" stroke-width="1.2">
+      <rect width="24.733" height="3.983" rx="1.991" stroke="none"/>
+      <rect x="0.6" y="0.6" width="23.533" height="2.783" rx="1.391" fill="none"/>
+    </g>
+  </g>
+</svg>

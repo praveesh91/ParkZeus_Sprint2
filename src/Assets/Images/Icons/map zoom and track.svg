@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="83" viewBox="0 0 38 83">
+  <defs>
+    <filter id="Rectangle_1892" x="0" y="0" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1893" x="0" y="22" width="38" height="61" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="map_zoom_and_track" data-name="map zoom and track" transform="translate(9 6)">
+    <g id="Group_1764" data-name="Group 1764" transform="translate(-0.266)">
+      <g transform="matrix(1, 0, 0, 1, -8.73, -6)" filter="url(#Rectangle_1892)">
+        <rect id="Rectangle_1892-2" data-name="Rectangle 1892" width="20" height="20" rx="6" transform="translate(9 6)" fill="#fff"/>
+      </g>
+      <g id="Group_1763" data-name="Group 1763" transform="translate(3.378 3.378)">
+        <g id="Group_1762" data-name="Group 1762" transform="translate(0 0)">
+          <path id="Path_1259" data-name="Path 1259" d="M12.278,17.61V16.023a4.677,4.677,0,0,0,4.127-4.128h1.588a.519.519,0,1,0,0-1.038H16.406a4.677,4.677,0,0,0-4.127-4.128V5.14a.52.52,0,1,0-1.04,0V6.728a4.678,4.678,0,0,0-4.127,4.128H5.523a.519.519,0,1,0,0,1.038H7.111a4.678,4.678,0,0,0,4.127,4.128V17.61a.52.52,0,0,0,1.04,0ZM8.9,11.375a2.858,2.858,0,1,1,2.857,2.858A2.857,2.857,0,0,1,8.9,11.375Z" transform="translate(-5.003 -4.62)"/>
+          <circle id="Ellipse_305" data-name="Ellipse 305" cx="1.689" cy="1.689" r="1.689" transform="translate(5.106 5.105)"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_1893)">
+      <rect id="Rectangle_1893-2" data-name="Rectangle 1893" width="20" height="43" rx="6" transform="translate(9 28)" fill="#fff"/>
+    </g>
+    <g id="Group_1765" data-name="Group 1765" transform="translate(4.801 27.021)">
+      <rect id="Rectangle_1894" data-name="Rectangle 1894" width="10" height="2" transform="translate(0.199 3.979)"/>
+      <rect id="Rectangle_1895" data-name="Rectangle 1895" width="10" height="2" transform="translate(6.199 -0.021) rotate(90)"/>
+      <rect id="Rectangle_1896" data-name="Rectangle 1896" width="10" height="2" transform="translate(0.199 3.979)"/>
+    </g>
+    <rect id="Rectangle_1897" data-name="Rectangle 1897" width="10" height="2" transform="translate(5 54)"/>
+    <line id="Line_328" data-name="Line 328" x2="20" transform="translate(0 44)" fill="none" stroke="#bebebe" stroke-width="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+.modal {
+	position: relative;
+	&__wrapper {
+		position: absolute;
+		top: 0;
+		left: 0;
+		&_header {
+			padding: 20px;
+			display: flex;
+			&_heading {
+				font-size: 20px;
+				color: green;
+			}
+		}
+		&_body {
+			background: red;
+			padding: 20px;
+			&_section {
+				text-align: center;
+			}
+		}
+		&_footer {
+			position: fixed;
+			bottom: 0;
+			&_section {
+				padding: 20px;
+			}
+		}
+	}
+}

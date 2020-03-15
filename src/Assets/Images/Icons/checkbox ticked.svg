@@ -1,0 +1,7 @@
+<svg id="checkbox_ticked" data-name="checkbox ticked" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Rectangle_1275" data-name="Rectangle 1275" fill="#fff" stroke="#1f0350" stroke-width="2">
+    <rect width="20" height="20" stroke="none"/>
+    <rect x="1" y="1" width="18" height="18" fill="none"/>
+  </g>
+  <path id="Path_1157" data-name="Path 1157" d="M-83.108,31.968l-8.478,9.13a1.3,1.3,0,0,1-.994.563l-.081,0a1.3,1.3,0,0,1-.975-.438l-3.913-4.565a1.3,1.3,0,0,1,.108-1.841,1.3,1.3,0,0,1,1.841.109l2.939,3.576,7.4-8.014a1.3,1.3,0,0,1,1.814-.336A1.3,1.3,0,0,1-83.108,31.968Z" transform="translate(102.879 -27.839)" fill="#21034f"/>
+</svg>

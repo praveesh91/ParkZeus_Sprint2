@@ -1,0 +1,13 @@
+body, p, h2, span, .MuiButton-root, .MuiTypography-h6, .MuiTypography-body1, .MuiTypography-h5 {
+  margin: 0;
+  font-family: 'Poppins', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.MuiTypography-h6 {
+  font-size: 1.03rem !important;
+  font-weight: 700 !important;
+}  
+

@@ -1,0 +1,50 @@
+.Ratingsandreviews{
+
+    &__wrapper{
+        margin: 14px;
+
+        &_box{
+
+            &_heading{
+                padding: 20px;
+            }
+            &_final-ratings{
+                padding-left: 20px;
+            }
+            &_review{
+                padding-left: 20px;
+                background-color: #f2f2f0;
+                border-radius: 10px;
+                margin: 10px;
+                padding: 10px;
+
+                &_heading{
+                    display: flex;
+
+                    &_name{
+                        font-size: 13px;
+                        font-weight: 700;
+                        padding:0;
+                        margin: 0;
+                    }
+
+                    &_ratings{
+                        padding:0;
+                        margin: 0;
+
+                        .MuiRating-root{
+                            font-size: 1.1rem!important;
+                            padding-left: 10px;
+                        }
+                    }
+                }
+
+                &_date{
+                    font-size: 10px;
+                    padding: 0;
+                    margin: 0;
+                }
+            }
+        }
+    }
+}

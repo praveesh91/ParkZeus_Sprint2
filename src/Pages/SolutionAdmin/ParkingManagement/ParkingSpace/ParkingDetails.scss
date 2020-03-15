@@ -1,0 +1,124 @@
+.DetailParking{
+
+    &__wrapper{
+        margin: 30px;
+
+
+        &_title{
+            font-size: 20px;
+            font-weight: 700;
+            padding: 20px 10px;
+            display: flex;
+            justify-content: space-between;
+
+            p{
+                margin: 0;
+
+                img{
+                    width: 58px;
+                }
+            }
+
+            &_actions{
+
+                &_deactivate{
+                    font-size: 10px!important;
+                    border-radius: 20px!important;
+                    margin: 0 20px!important;
+                    padding: 0px 5px;
+                    background-color: #a2a2a2!important;
+                    color: #fff !important;
+                }
+                &_edit{
+                    font-size: 10px!important;
+                    border-radius: 20px!important;
+                    margin-right: 20px!important;
+                    color: #fff !important;
+                    background-color: #E46A76!important;
+                    padding: 0px 5px;
+
+                    .MuiSvgIcon-root{
+                        width: 20px !important;
+                        height: 20px !important;
+                    }
+                }
+                &_delete{
+                    font-size: 10px!important;
+                    border-radius: 20px!important;
+                    margin-right: 20px!important;
+                    color: #fff !important;
+                    background-color: #E46A76!important;
+                    padding: 0px 5px;
+
+                    .MuiSvgIcon-root{
+                        width: 20px !important;
+                        height: 20px !important;
+                    }
+                }
+
+            }
+
+           
+        }
+
+        &_basicdetails{
+            display: flex;
+
+            &_left{
+                width: 75%;
+                margin: 15px;
+
+                &_carousel-box{
+                    max-height: 400px;
+
+                    img{
+                        height: 400px;
+                    }
+                }
+            }
+            &_right{
+                width: 50%;
+                margin-left: 15px;
+
+                &_address{
+                    background-color: #f2f2f0;
+                    padding: 20px;
+                    display: flex;
+                    margin: 15px;
+                    border-radius: 10px;
+
+                &_map img{
+                    width: 100px;
+                }
+                &_text{
+                    font-size: 12px;
+                    padding-left: 10px;
+                }
+            }
+            &_moredetails{
+                background-color: #f2f2f0;
+                padding: 10px;
+                margin: 15px;
+                border-radius: 10px;
+
+                &_box ul{
+                    display: flex;
+                    justify-content: start;
+                    padding-left: 10px;
+                
+                
+                 li{
+                    min-width: 100px;
+                    list-style: none;
+                    display: inline;
+                    font-size: 12px;
+
+                }
+            }
+            }
+        }
+    }
+
+}
+
+}

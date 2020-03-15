@@ -1,0 +1,28 @@
+.parkingSpace{
+
+    &__wrapper{
+        background-color: #f2f2f0;
+        display: flex;
+        flex-wrap: wrap;
+
+        
+        
+    }
+}
+
+.parkingmodule-navbar{
+
+    &__wrapper{
+
+        &_nav{
+            padding: 10px 20px;
+
+            .MuiButton-containedPrimary{
+                font-size: 10px;
+                background-color: #03A9F3!important;
+                margin-top: -18px;
+
+            }
+        }
+    }
+}

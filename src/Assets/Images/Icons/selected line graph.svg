@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61" height="58" viewBox="0 0 61 58">
+  <defs>
+    <filter id="Rectangle_1178" x="0" y="0" width="61" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="selected_line_graph" data-name="selected line graph" transform="translate(5 5)">
+    <g transform="matrix(1, 0, 0, 1, -5, -5)" filter="url(#Rectangle_1178)">
+      <rect id="Rectangle_1178-2" data-name="Rectangle 1178" width="43" height="40" transform="translate(5 5)" fill="#e46a76"/>
+    </g>
+    <g id="Group_1894" data-name="Group 1894" transform="translate(-63 -9.1)">
+      <path id="Path_1261" data-name="Path 1261" d="M95.971,37.368H76.333V18.1H75.6v1.483h-.742v.742H75.6V21.8h-.742v.742H75.6v1.483h-.742v.742H75.6v1.483h-.742v.737H75.6v1.483h-.742v.742H75.6V30.7h-.742v.742H75.6v1.479h-.742v.742H75.6v1.483h-.742v.742H75.6v1.483H73V38.1h2.6v2.6h.737V38.1h1.483v.742h.742V38.1h1.483v.742h.742V38.1h1.479v.742H83V38.1h1.483v.742h.742V38.1H86.71v.742h.737V38.1H88.93v.742h.742V38.1h1.483v.742H91.9V38.1h1.479v.742h.742V38.1h1.854Z" transform="translate(0 0)" fill="#fff" stroke="#fff" stroke-width="0.1"/>
+      <path id="Path_1262" data-name="Path 1262" d="M178.407,169.828l2.225,2.225,3.7-3.708,2.22,2.22,3.708-3.712v.968h.742V165.6h-2.22v.742h.945l-3.174,3.174-2.22-2.216-3.7,3.7-2.225-2.225-4.707,4.707.525.525Z" transform="translate(-96.146 -140.83)" fill="#fff" stroke="#fff" stroke-width="0.1"/>
+    </g>
+  </g>
+</svg>

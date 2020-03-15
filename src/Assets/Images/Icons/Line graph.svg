@@ -1,0 +1,12 @@
+<svg id="Line_graph" data-name="Line graph" xmlns="http://www.w3.org/2000/svg" width="42" height="40" viewBox="0 0 42 40">
+  <g id="daily_unselected" transform="translate(-581 -574)">
+    <g id="Rectangle_1179" data-name="Rectangle 1179" transform="translate(581 574)" fill="#e6e6ef" stroke="#959595" stroke-width="1" opacity="0.44">
+      <rect width="42" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="41" height="39" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_1916" data-name="Group 1916" transform="translate(-63 -9.1)">
+    <path id="Path_1261" data-name="Path 1261" d="M95.971,37.368H76.333V18.1H75.6v1.483h-.742v.742H75.6V21.8h-.742v.742H75.6v1.483h-.742v.742H75.6v1.483h-.742v.737H75.6v1.483h-.742v.742H75.6V30.7h-.742v.742H75.6v1.479h-.742v.742H75.6v1.483h-.742v.742H75.6v1.483H73V38.1h2.6v2.6h.737V38.1h1.483v.742h.742V38.1h1.483v.742h.742V38.1h1.479v.742H83V38.1h1.483v.742h.742V38.1H86.71v.742h.737V38.1H88.93v.742h.742V38.1h1.483v.742H91.9V38.1h1.479v.742h.742V38.1h1.854Z" transform="translate(0 0)" fill="#707070" stroke="#707070" stroke-width="0.1"/>
+    <path id="Path_1262" data-name="Path 1262" d="M178.407,169.828l2.225,2.225,3.7-3.708,2.22,2.22,3.708-3.712v.968h.742V165.6h-2.22v.742h.945l-3.174,3.174-2.22-2.216-3.7,3.7-2.225-2.225-4.707,4.707.525.525Z" transform="translate(-96.146 -140.83)" fill="#707070" stroke="#707070" stroke-width="0.1"/>
+  </g>
+</svg>
