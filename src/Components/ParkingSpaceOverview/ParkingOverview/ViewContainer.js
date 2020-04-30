@@ -25,8 +25,8 @@ export class ViewContainer extends Component {
     
         this.state = {
              listType: false,
-             CardType: true,
-             mapType: false,
+             CardType: false,
+             mapType: true,
         }
     }
 

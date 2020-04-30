@@ -7,6 +7,8 @@ import ChartContainer from '../../Components/Charts/ChartContainer/ChartContaine
 import Calendar from '../../Components/Calender/Calender';
 import Rating from '../../Components/Ratings/Rating'
 
+import Calendar1 from '../../Components/Calendar1/index'
+
 // import ActionList from '../../components/ActionCards/CardList.js'
 import ViewContainer from '../../Components/ParkingSpaceOverview/ParkingOverview/ViewContainer';
 
@@ -31,9 +33,11 @@ class Dashboard extends Component {
           <Grid item md={8} xs={12}>
             <ViewContainer />
             <ChartContainer />
+            
           </Grid>
           <Grid item md={4} xs={12}>
             <Calendar />
+            {/* <Calendar1 /> */}
             <Rating />
           </Grid>
         </Grid>

@@ -1,0 +1,95 @@
+.Datepicker--DateList {
+    display: flex;
+    margin: 2px 0 2px 0;
+}
+
+.Datepicker--DateDayItem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    padding-right: 2em;
+    padding-bottom: 4px;
+}
+
+.Datepicker--Strip {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+    width: max-content;
+    max-width: 100%;
+    overflow: hidden;
+    font-size: 12px;
+}
+
+.DateDayItem--selected {
+    // font-weight: bold;
+    height: 45px;
+    border-bottom: 4px solid rgb(77, 123, 243);
+    color: black !important;
+}
+
+.DateDayItem--disabled {
+    color: rgb(176, 176, 176);
+}
+
+.Datepicker--DateList--scrollable {
+    display: flex;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    margin: 2px 0 2px 0;
+    border-bottom: 1px solid;
+}
+
+.Datepicker--DateList--scrollable::-webkit-scrollbar {
+    -webkit-appearance: none;
+    display: none;
+}
+
+.Datepicker {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin-top: 12px;
+}
+
+.Datepicker--DayLabel {
+    // font-size: 12px;
+    margin-top: 5px;
+}
+
+.Datepicker--button-prev, .Datepicker--button-next{
+    border: none;
+    text-decoration: none;
+    background: rgb(77, 123, 243);
+    cursor: pointer;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    color: white;
+    // font-size: 20px;
+    font-weight: bold;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Datepicker--MonthYearLabel {
+    margin-left: 4px;
+    align-self: flex-start;
+    // font-size: 15px;
+    width: 6em;
+    padding-top: 15px;
+}
+
+.Datepicker--DateLabel {
+    margin-top: 5px;
+}
+
+.Datepicker--Container {
+    max-width: 100%;
+    display: flex;
+    width: 650px;
+}

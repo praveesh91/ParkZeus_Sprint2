@@ -3,7 +3,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import MenuItem from '@material-ui/core/MenuItem';
-// import {Link } from 'react-router-dom'
+import {Link } from 'react-router-dom'
 
 const useStyles = makeStyles({
   listGroup:{
@@ -34,8 +34,13 @@ export default function MediaCard() {
       Robert Bosch Pvt Ltd
     </Typography>
     </MenuItem>
-    {/* <Link to="/login"> */}
-      <MenuItem dense={true} disablePadding={true}>
+
+    {/* <MenuItem dense={true} disablePadding={true}>
+      <Link to = "/profile">View Profile</Link>
+    </MenuItem> */}
+
+        {/* <Link to="/login"> */}
+        <MenuItem dense={true} disablePadding={true}>
         <Button variant="contained" color="secondary">Logout</Button>
       </MenuItem>
     {/* </Link> */}

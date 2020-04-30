@@ -12,10 +12,13 @@
     "axios": "^0.19.2",
     "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
+    "date-fns": "^2.11.0",
     "google-map-react": "^1.1.6",
     "google-maps-react": "^2.0.2",
+    "moment": "^2.24.0",
     "node-sass": "^4.13.1",
     "react": "^16.13.0",
+    "react-addons-css-transition-group": "^15.6.2",
     "react-calendar": "^2.19.2",
     "react-chartjs-2": "^2.9.0",
     "react-custom-scrollbars": "^4.2.1",
@@ -27,8 +30,10 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0",
     "react-swipeable-views": "^0.13.9",
+    "react-waypoint": "^9.0.2",
     "styled-components": "^5.0.1",
-    "typeface-poppins": "0.0.72"
+    "typeface-poppins": "0.0.72",
+    "zxcvbn": "^4.4.2"
   },
   "scripts": {
     "start": "react-scripts start",

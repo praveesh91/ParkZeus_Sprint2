@@ -1,4 +1,4 @@
-body, p, h2, span, .MuiButton-root, .MuiTypography-h6, .MuiTypography-body1, .MuiTypography-h5 {
+body, p, h2, span, .MuiInputBase-input, .MuiButton-root, .MuiTypography-h6, .MuiTypography-body1, .MuiTypography-h5 {
   margin: 0;
   font-family: 'Poppins', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,7 @@ body, p, h2, span, .MuiButton-root, .MuiTypography-h6, .MuiTypography-body1, .Mu
   font-size: 1.03rem !important;
   font-weight: 700 !important;
 }  
+.MuiInputBase-input{
+  color: white !important;
+}
 

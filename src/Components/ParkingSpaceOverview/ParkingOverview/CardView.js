@@ -5,6 +5,7 @@ import {Grid, Card, CardContent, CardHeader} from '@material-ui/core/';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import IconButton from '@material-ui/core/IconButton';
 import Avatar from '@material-ui/core/Avatar';
+import VerifiedLabel from './StatusLabel/VerifiedLabel';
 
 import verified from '../../../Assets/Images/verified tag.png'
 import live from '../../../Assets/Images/live.png'
@@ -50,7 +51,8 @@ class CardView extends Component {
                             />
                             
                             <CardContent>
-                            <img className="verified-image" src={verified} alt="label" />
+                            <VerifiedLabel/>
+                            {/* <img className="verified-image" src={verified} alt="label" /> */}
                             <div className="info-container mb-2 mt-2">
                                 <div className="status">
                                     <b>Occupied</b>

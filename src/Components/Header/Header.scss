@@ -25,3 +25,39 @@
   .MuiListItemIcon-root {
     margin-left: 10px;
   }
+
+  .optionsContainer {
+    width: 100%;
+    transition: width 0.3s;
+    position: absolute;
+    padding-left: 0;
+    border-radius: 15px;
+    background-color: white;
+  }
+
+  ul.options {
+    margin-left: -40px;
+}
+  
+  ul.options li {
+    display: block;
+    background: white;
+    border-bottom: 1px solid;
+    padding: 10px;
+    color: black;
+    width: 100%;
+  }
+  ul.options li:hover {
+    color: black;
+    background: whitesmoke;
+    cursor: pointer;
+    transition: 0.3s all;
+  }
+  
+  ul.options li.option-active {
+    background: whitesmoke;
+  }
+  .no-options {
+    color: white;
+  }
+  

@@ -25,3 +25,25 @@
     border-radius: 20px;  
     background: white;  
   }
+  .info-container-map {
+    display: flex;
+    padding: 0px 0px 8px 0px;
+}
+.status-map {
+  padding-right: 26px;
+}
+.MuiPaper-elevation1{
+  box-shadow: none !important;
+}
+// .MuiCardHeader-action {
+//   margin-right: -35px !important;
+// }
+// .MuiIconButton-root:hover {
+//  background-color: transparent !important;
+// }
+// .MuiCardContent-root {
+//   padding: 0px 16px 0px 16px !important;
+// }
+.gm-style .gm-style-iw-c {
+  padding: 0 !important;
+}

@@ -24,7 +24,7 @@ export default function SidebarMenuItem(props) {
     
       const MenuItemRoot = (
 
-        <ListItem className={classes.listItem} divider={true} button onClick={handleClick}>
+        <ListItem className={classes.listItem} divider={true} button onClick={handleClick} >
           {/* Display an icon if any */}
           {!!Icon && (
             // <ListItemIcon >
@@ -48,7 +48,7 @@ export default function SidebarMenuItem(props) {
       )
     
       const MenuItemChildren = isExpandable ? (
-        <Collapse in={open} timeout="auto" unmountOnExit>
+        <Collapse in={open && props.close} timeout="auto" unmountOnExit>
           <Divider />
           <List component="div" disablePadding>
             {items.map((item, index) => (

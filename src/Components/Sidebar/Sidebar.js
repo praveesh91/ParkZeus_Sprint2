@@ -131,6 +131,9 @@ function Sidebar(props) {
   // toggle sidebar drawer
   const open = props.openState 
 
+  // const [close, setClose] = React.useState(true)
+
+
   return (
     <div className={classes.root}>
       <CssBaseline />
@@ -149,7 +152,7 @@ function Sidebar(props) {
       >
         <List component="nav" disablePadding>
           {appMenuItems.map((item, index) => (
-            <SidebarMenuItem {...item} key={index} />
+            <SidebarMenuItem {...item} key={index} close={!open} />
           ))}
         </List>
       </Drawer>

@@ -28,7 +28,7 @@ graphData = () =>{
     // const values = parkingData.map(d => d.vehicles.booked)
     // const valus = parkingData.map(d => d.day)
     const {fillFlag} = this.state
-    console.log("fillFlagInComponentDidMount=", fillFlag);
+    // console.log("fillFlagInComponentDidMount=", fillFlag);
 
 
     const chartData = (canvas) => {
@@ -106,8 +106,8 @@ graphType = ()=>{
 render() {
 
   const {showLine, showBar, showPie,chartData,fillFlag} = this.state;
-  console.log("chartData=",chartData);
-  console.log("fillFlagOutsideComponentDidMount=", fillFlag)
+  // console.log("chartData=",chartData);
+  // console.log("fillFlagOutsideComponentDidMount=", fillFlag)
 
   return (
   <div>

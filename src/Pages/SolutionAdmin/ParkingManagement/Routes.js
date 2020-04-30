@@ -10,6 +10,9 @@ import Header from '../../../Components/Header/Header';
 import Sidebar from '../../../Components/Sidebar/Sidebar';
 //import ParkingOverview from '../ParkingManagement/ParkingOverview';
 
+import Profile from '../../../Pages/Profile/Profile'
+import EditProfile from '../../../Pages/Profile/EditProfile'
+
 {/* <Sidebar /> */}
 
  class Routes extends Component {
@@ -42,7 +45,9 @@ import Sidebar from '../../../Components/Sidebar/Sidebar';
                     <Switch >
                         <Route path="/" exact component={ Dashboard  } />
                         <Route path="/parkingmanagment" component={ParkingOverview} />
-                        <Route  path="/parking-details/:id" exact component= {ParkingDetails} />
+                        <Route path="/parking-details/:id" exact component= {ParkingDetails} />
+                        <Route path="/profile" exact component={Profile} />
+                        <Route path="/profile/edit" exact component={EditProfile} />
                     </Switch>
                 </div>
             </div>
